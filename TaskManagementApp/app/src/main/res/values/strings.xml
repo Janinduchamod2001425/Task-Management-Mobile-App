@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Task</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="enter_the_priority">Enter the priority</string>
+    <string name="enter_the_deadline">Deadline Date</string>
+    <string name="note_title">Note Title</string>
+    <string name="description">Description</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="make_your_life_more_easy">Make your life more easy</string>
+    <string name="task_manager">Task Manager</string>
+    <string name="priority">Priority</string>
+    <string name="deadline">Deadline</string>
+</resources>
