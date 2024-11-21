@@ -1,7 +1,7 @@
 # Task Management App 📋
 A Simple and Efficient Task Organizer
 
-
+![TaskApp Demo](./assets/taskapp.png)
 
 ## Overview
 This Task Management App is a mobile application built using Kotlin, designed to help users efficiently manage their tasks. With a focus on simplicity and usability, the app provides core functionalities like creating, reading, updating, and deleting tasks (CRUD). The intuitive interface ensures a seamless experience for managing daily activities.
